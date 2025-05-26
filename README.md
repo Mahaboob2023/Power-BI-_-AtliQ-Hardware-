@@ -42,5 +42,5 @@ AtliQ Hardware, a rapidly growing company in the hardware industry, was facing c
 - **DAX Studio** – for performance tuning and model optimization  
 
 ## 📁 Project Structure
-https://github.com/Mahaboob2023/Power-BI-_-AtliQ-Hardware-/blob/main/Business_Insights_AtliQ%20360.pdf
- [**AtliQ Hardware – Business Insights**](https://github.com/Mahaboob2023/Power-BI-_-AtliQ-Hardware-/blob/main/Business_Insights_AtliQ%20360.pdf)
+[**AtliQ Hardware – Business Insights (Download PDF)**](https://github.com/Mahaboob2023/Power-BI-_-AtliQ-Hardware-/blob/main/Business_Insights_AtliQ%20360.pdf)
+
